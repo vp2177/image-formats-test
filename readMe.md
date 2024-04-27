@@ -1,8 +1,10 @@
-![](./img/a.png)
+![PNG](./img/a.png)
 ![](./img/a.gif)
 ![](./img/a.jpg)
 ![](./img/a.webp)
 ![](./img/a.avif)
 ![](./img/a.heic)
-
+![](./img/a.jxl)
+![](./img/a.bmp)
+![](./img/a.ico)
 
